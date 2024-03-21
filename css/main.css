@@ -1,1 +1,10 @@
 /* Place CSS styles here */
+body{background-color: rgb(143, 229, 235);
+    font-family: "Merriweather", serif;
+    color: rgb(24, 112, 153);
+}
+h1 {
+    background-color: rgb(39, 107, 144);
+    font-family: "Karla", sans-serif;
+    color: rgb(153, 214, 240);
+}
