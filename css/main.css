@@ -1,7 +1,7 @@
 /* Place CSS styles here */
 body{background-color: rgb(255, 255, 255);
     font-family: "Merriweather", serif;
-    color: rgb(24, 112, 153);
+    color: rgb(3, 17, 23);
     font-size: 16px;
 }
 h1 {
@@ -10,11 +10,17 @@ h1 {
     color: rgb(17, 63, 82);
     font-size: 40px;
 }
-h3{
+h2{
     color: rgb(20, 62, 87);
     font-family: "Karla", sans-serif;
     font-size: 25px;
 }
-h3, h1, p, body{
+h2, h1, h3, p, body{
+    margin: .15in;
+}
+h3{color: rgb(55, 115, 161);}
+img{
+    width: 250px;
+    height: 400px;
     margin: .15in;
 }
